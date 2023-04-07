@@ -1,1 +1,1 @@
-This app is implemented using various concepts of Angular App including different directives, routing, passing of data from parent to child components and vice-versa. NgForms and its concepts have been used. Concept of emitters is used as well.
+This app is implemented using various concepts of Angular, including different directives, routing, passing of data from parent to child components and vice-versa. NgForms and its concepts have been used. Concept of emitters is used as well.
